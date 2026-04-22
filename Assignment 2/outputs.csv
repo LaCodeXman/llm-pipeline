@@ -1,0 +1,2 @@
+summary,entities,sentiment,questions,chunk_id
+"Elon Musk is the CEO of Tesla and SpaceX, leading innovation in electric vehicles and space technology.","['Elon Musk', 'Tesla', 'SpaceX']",positive,"['Who is the CEO of Tesla and SpaceX?', 'What companies is Elon Musk leading?']",1
